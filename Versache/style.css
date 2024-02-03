@@ -1,0 +1,64 @@
+.navbar {
+    background-color: #ffffff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.navbar-brand h1 {
+    color: #007bff; 
+}
+
+.nav-item {
+    margin-right: 20px; 
+}
+
+.banner {
+    background-color: #6c757d; 
+}
+
+.banner h1 {
+    color: #ffffff; 
+}
+
+
+.fruite h1 {
+    color: #343a40; 
+}
+
+.fruite-item {
+    border: 1px solid #dee2e6; 
+}
+
+.fruite-item h4 {
+    color: #007bff;
+}
+
+.contact {
+    background-color: #f8f9fa; 
+}
+
+.contact h1 {
+    color: #007bff; 
+}
+
+.footer {
+    background-color: #343a40; 
+    color: #ffffff; 
+}
+
+
+.btn-social i {
+    font-size: 24px; 
+}
+
+.copyright {
+    background-color: #343a40; 
+}
+
+.container-fluid,
+.container {
+    padding: 0;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff; 
+}
